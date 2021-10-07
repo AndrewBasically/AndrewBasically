@@ -2,8 +2,8 @@
 <html>
   <body>
     <h3>
-      <a href=""><img alt="👋" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></a> Hallo Ich Bin Andrew
-      <a href="https://github.com/AndrewBasically">
+      <a href=""><img alt="👋" src="wave.gif" width="32px"></a> Hallo Ich Bin Andrew
+      <a href="https://andrewbasically.github.io./">
         <img align="right" alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
       </a>
       <a href="http://www.tiktok.com/@andrewbasically">

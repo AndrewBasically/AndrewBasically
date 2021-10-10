@@ -2,7 +2,7 @@
 ---
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewBasically&layout=compact" align="right">](https://github.com/AndrewBasically?tab=repositories)
 High school sophomore in competive engineering academy following STEM Endorsment path in Computer Science. Chief Editor of the [Elkins Round Table](https://theelkinsroundtable.com/).
-- 👀 Interested in...&nbsp;&nbsp;&nbsp;&nbsp;**internerships in Computer Engineering at realted fields.**
+- 👀 Interested in...&nbsp;&nbsp;&nbsp;&nbsp;**Computer Engineering at realted fields.**
 - 🌱 Learrning...&nbsp;&nbsp;&nbsp;&nbsp;**Javascript & Vex Robotics.**
 - 😄 Pronouns:&nbsp;&nbsp;&nbsp;&nbsp;**He/Him**
 - 🎓 Class:&nbsp;&nbsp;&nbsp;&nbsp;**EHS EA 2024**
